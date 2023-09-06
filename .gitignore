@@ -2,3 +2,4 @@
 *.txt
 /moi-env
 /images
+*.npy
